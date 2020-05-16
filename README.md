@@ -10,7 +10,6 @@ Action      | Solution
 ----------- | ------------
 `sum()`     | Make a sum
 
-title: codes
 
 ## Git
 
