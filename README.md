@@ -22,3 +22,13 @@ Add file to `.gitignore`    | Follow the [SO](https://stackoverflow.com/a/113979
 Action      | Solution
 ----------- | ------------
 `sum()`     | Make a sum
+
+## Markdown - Github
+
+Action      | Solution
+----------- | ------------
+Create tables    | Go to [Github's documentation](https://github.github.com/gfm/#tables-extension-)
+
+
+
+
